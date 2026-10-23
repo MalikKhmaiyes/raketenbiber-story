@@ -1,0 +1,22 @@
+German word		| English word
+-----------------------------------------
+Ohrwurm			| Earworm
+Pantoffelheld		| Slipper hero
+Sauerkraut		| Sauerkraut
+Haupstrasse		| Main Street
+Broetchen		| Bread Roll
+Klimaanlage		| Air Conditioning
+Rammstein		| Ramming Stone
+Porsche			| Porsche
+Hundemuede		| Dog-tired
+Biergarten		| Beer garden
+Drahtesel		| Wire Donkey
+Staubsauger		| Dust Sucker
+Wettbewerbsfaehig	| Competitive 
+Mehlhase		| Flour hare
+Gebaech			| Pastries or baked goods
+Baeckerei		| Bakery
+Hund			| Dog
+Doener			| Doner Kabab
+Apfelkuchen		| Apple Cake
+Handschuhe		| Hand Shoes
